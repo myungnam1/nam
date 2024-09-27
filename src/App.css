@@ -119,12 +119,11 @@ button {
   font-size: 14px;
 }
 
-/* 해낸 일에 검은색 텍스트와 회색 줄 제거 */
 .completed {
   color: black;
-  text-decoration: none; /* 회색 줄 제거 */
+  text-decoration: none;
 }
 
 .completed button {
-  background-color: #4CAF50; /* 삭제 버튼 색상 */
+  background-color: #4CAF50; 
 } 
